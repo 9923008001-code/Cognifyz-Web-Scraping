@@ -1,0 +1,11 @@
+PS C:\Users\arthi reddy\Desktop\Cognifyz Technologies level 3> python scraper.py
+>>
+✅ Quotes saved successfully to quotes.csv
+PS C:\Users\arthi reddy\Desktop\Cognifyz Technologies level 3> python scraper.py
+✅ Quotes saved successfully to quotes.csv
+PS C:\Users\arthi reddy\Desktop\Cognifyz Technologies level 3> python scraper.py
+✅ Quotes saved successfully to quotes.csv
+PS C:\Users\python scraper.pyop\Cognifyz Technologies level 3>
+✅ Quotes saved successfully to quotes.csv
+PS C:\Users\arthi reddy\Desktop\Cognifyz Technologies level 3> python scraper.py
+✅ Quotes saved successfully to quotes.csv
